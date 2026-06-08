@@ -1,9 +1,9 @@
 public class Multiplication {
 
 
-    public static multNumber(a, b) {
+    public static void multNumber(int a, int b) {
     
-        System.out.println("Result:", a * b);
+        System.out.println("Result:"+ a * b);
    
 }
 
